@@ -8,7 +8,9 @@ public:
             for(int j = i + 1; j < m; j++){
                 swap(matrix[i][j], matrix[j][i]);
             }
-            reverse(matrix[i].begin(), matrix[i].end());
         }
+
+        for(int k = 0; k < m; k++)
+            reverse(matrix[k].begin(), matrix[k].end());
     }
 };
