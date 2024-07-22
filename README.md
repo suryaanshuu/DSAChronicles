@@ -9,6 +9,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/suryaanshuu/DSAChronicles/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/suryaanshuu/DSAChronicles/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/suryaanshuu/DSAChronicles/tree/master/0169-majority-element) |
+| [0898-transpose-matrix](https://github.com/suryaanshuu/DSAChronicles/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/suryaanshuu/DSAChronicles/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -45,9 +46,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/suryaanshuu/DSAChronicles/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/suryaanshuu/DSAChronicles/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/suryaanshuu/DSAChronicles/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/suryaanshuu/DSAChronicles/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
