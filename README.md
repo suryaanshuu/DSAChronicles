@@ -62,4 +62,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/suryaanshuu/DSAChronicles/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/suryaanshuu/DSAChronicles/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/suryaanshuu/DSAChronicles/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
