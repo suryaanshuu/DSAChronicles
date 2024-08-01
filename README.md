@@ -22,6 +22,7 @@
 | [0001-two-sum](https://github.com/suryaanshuu/DSAChronicles/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/suryaanshuu/DSAChronicles/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/suryaanshuu/DSAChronicles/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/suryaanshuu/DSAChronicles/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suryaanshuu/DSAChronicles/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/suryaanshuu/DSAChronicles/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/suryaanshuu/DSAChronicles/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/suryaanshuu/DSAChronicles/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
