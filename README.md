@@ -67,10 +67,15 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/suryaanshuu/DSAChronicles/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/suryaanshuu/DSAChronicles/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/suryaanshuu/DSAChronicles/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/suryaanshuu/DSAChronicles/tree/master/1078-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/suryaanshuu/DSAChronicles/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
