@@ -64,12 +64,14 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/suryaanshuu/DSAChronicles/tree/master/0048-rotate-image) |
+| [2032-largest-odd-number-in-string](https://github.com/suryaanshuu/DSAChronicles/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/suryaanshuu/DSAChronicles/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/suryaanshuu/DSAChronicles/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/suryaanshuu/DSAChronicles/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/suryaanshuu/DSAChronicles/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/suryaanshuu/DSAChronicles/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/suryaanshuu/DSAChronicles/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
