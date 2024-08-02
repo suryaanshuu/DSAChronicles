@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/suryaanshuu/DSAChronicles/tree/master/0169-majority-element) |
 | [0898-transpose-matrix](https://github.com/suryaanshuu/DSAChronicles/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/suryaanshuu/DSAChronicles/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/suryaanshuu/DSAChronicles/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/suryaanshuu/DSAChronicles/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/suryaanshuu/DSAChronicles/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/suryaanshuu/DSAChronicles/tree/master/0242-valid-anagram) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/suryaanshuu/DSAChronicles/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/suryaanshuu/DSAChronicles/tree/master/0048-rotate-image) |
 | [2032-largest-odd-number-in-string](https://github.com/suryaanshuu/DSAChronicles/tree/master/2032-largest-odd-number-in-string) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/suryaanshuu/DSAChronicles/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## String
 |  |
 | ------- |
