@@ -13,6 +13,7 @@
 | [0898-transpose-matrix](https://github.com/suryaanshuu/DSAChronicles/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/suryaanshuu/DSAChronicles/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/suryaanshuu/DSAChronicles/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/suryaanshuu/DSAChronicles/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0169-majority-element](https://github.com/suryaanshuu/DSAChronicles/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/suryaanshuu/DSAChronicles/tree/master/0242-valid-anagram) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/suryaanshuu/DSAChronicles/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/suryaanshuu/DSAChronicles/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | ------- |
 | [0898-transpose-matrix](https://github.com/suryaanshuu/DSAChronicles/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/suryaanshuu/DSAChronicles/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/suryaanshuu/DSAChronicles/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Union Find
 |  |
 | ------- |
@@ -75,6 +78,7 @@
 | [0242-valid-anagram](https://github.com/suryaanshuu/DSAChronicles/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/suryaanshuu/DSAChronicles/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/suryaanshuu/DSAChronicles/tree/master/2032-largest-odd-number-in-string) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/suryaanshuu/DSAChronicles/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Stack
 |  |
 | ------- |
