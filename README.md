@@ -49,6 +49,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/suryaanshuu/DSAChronicles/tree/master/0151-reverse-words-in-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/suryaanshuu/DSAChronicles/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/suryaanshuu/DSAChronicles/tree/master/0014-longest-common-prefix) |
+| [0151-reverse-words-in-a-string](https://github.com/suryaanshuu/DSAChronicles/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/suryaanshuu/DSAChronicles/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/suryaanshuu/DSAChronicles/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/suryaanshuu/DSAChronicles/tree/master/2032-largest-odd-number-in-string) |
