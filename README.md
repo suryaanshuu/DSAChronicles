@@ -80,12 +80,14 @@
 | [0242-valid-anagram](https://github.com/suryaanshuu/DSAChronicles/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/suryaanshuu/DSAChronicles/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/suryaanshuu/DSAChronicles/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/suryaanshuu/DSAChronicles/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/suryaanshuu/DSAChronicles/tree/master/2032-largest-odd-number-in-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/suryaanshuu/DSAChronicles/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Stack
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/suryaanshuu/DSAChronicles/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/suryaanshuu/DSAChronicles/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
