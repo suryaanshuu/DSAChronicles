@@ -12,7 +12,7 @@ public:
         for(int i = 0; i < n; i++){
             string rev = words[i];
             reverse(rev.begin(), rev.end());
-            if(words[i]==rev) continue;
+            if(words[i]==rev) continue; // This condition is for palindrome ig
             if(s.find(rev) != s.end()){
                 count++;
                 s.erase(words[i]);
