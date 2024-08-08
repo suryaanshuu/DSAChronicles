@@ -27,6 +27,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/suryaanshuu/DSAChronicles/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/suryaanshuu/DSAChronicles/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/suryaanshuu/DSAChronicles/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/suryaanshuu/DSAChronicles/tree/master/0451-sort-characters-by-frequency) |
 | [1217-relative-sort-array](https://github.com/suryaanshuu/DSAChronicles/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/suryaanshuu/DSAChronicles/tree/master/1319-unique-number-of-occurrences) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/suryaanshuu/DSAChronicles/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -41,11 +42,13 @@
 | ------- |
 | [0169-majority-element](https://github.com/suryaanshuu/DSAChronicles/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/suryaanshuu/DSAChronicles/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/suryaanshuu/DSAChronicles/tree/master/0451-sort-characters-by-frequency) |
 | [1217-relative-sort-array](https://github.com/suryaanshuu/DSAChronicles/tree/master/1217-relative-sort-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suryaanshuu/DSAChronicles/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/suryaanshuu/DSAChronicles/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +86,7 @@
 | [0014-longest-common-prefix](https://github.com/suryaanshuu/DSAChronicles/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/suryaanshuu/DSAChronicles/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/suryaanshuu/DSAChronicles/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/suryaanshuu/DSAChronicles/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/suryaanshuu/DSAChronicles/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/suryaanshuu/DSAChronicles/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/suryaanshuu/DSAChronicles/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -109,4 +113,12 @@
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/suryaanshuu/DSAChronicles/tree/master/1217-relative-sort-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/suryaanshuu/DSAChronicles/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/suryaanshuu/DSAChronicles/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
