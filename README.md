@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/suryaanshuu/DSAChronicles/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/suryaanshuu/DSAChronicles/tree/master/0169-majority-element) |
 | [0898-transpose-matrix](https://github.com/suryaanshuu/DSAChronicles/tree/master/0898-transpose-matrix) |
+| [1319-unique-number-of-occurrences](https://github.com/suryaanshuu/DSAChronicles/tree/master/1319-unique-number-of-occurrences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/suryaanshuu/DSAChronicles/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/suryaanshuu/DSAChronicles/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/suryaanshuu/DSAChronicles/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -25,6 +26,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/suryaanshuu/DSAChronicles/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/suryaanshuu/DSAChronicles/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/suryaanshuu/DSAChronicles/tree/master/0242-valid-anagram) |
+| [1319-unique-number-of-occurrences](https://github.com/suryaanshuu/DSAChronicles/tree/master/1319-unique-number-of-occurrences) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/suryaanshuu/DSAChronicles/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/suryaanshuu/DSAChronicles/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Divide and Conquer
