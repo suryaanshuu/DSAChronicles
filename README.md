@@ -27,6 +27,7 @@
 | [0013-roman-to-integer](https://github.com/suryaanshuu/DSAChronicles/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/suryaanshuu/DSAChronicles/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/suryaanshuu/DSAChronicles/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/suryaanshuu/DSAChronicles/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/suryaanshuu/DSAChronicles/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/suryaanshuu/DSAChronicles/tree/master/0451-sort-characters-by-frequency) |
 | [1217-relative-sort-array](https://github.com/suryaanshuu/DSAChronicles/tree/master/1217-relative-sort-array) |
@@ -89,6 +90,7 @@
 | [0013-roman-to-integer](https://github.com/suryaanshuu/DSAChronicles/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/suryaanshuu/DSAChronicles/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/suryaanshuu/DSAChronicles/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/suryaanshuu/DSAChronicles/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/suryaanshuu/DSAChronicles/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/suryaanshuu/DSAChronicles/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/suryaanshuu/DSAChronicles/tree/master/0812-rotate-string) |
