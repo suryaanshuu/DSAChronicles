@@ -15,6 +15,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/suryaanshuu/DSAChronicles/tree/master/1319-unique-number-of-occurrences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/suryaanshuu/DSAChronicles/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/suryaanshuu/DSAChronicles/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suryaanshuu/DSAChronicles/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/suryaanshuu/DSAChronicles/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Bit Manipulation
 |  |
@@ -51,6 +52,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/suryaanshuu/DSAChronicles/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/suryaanshuu/DSAChronicles/tree/master/0451-sort-characters-by-frequency) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suryaanshuu/DSAChronicles/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/suryaanshuu/DSAChronicles/tree/master/0451-sort-characters-by-frequency) |
+## Binary Search
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suryaanshuu/DSAChronicles/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
