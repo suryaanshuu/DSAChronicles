@@ -20,6 +20,7 @@ public:
             return ptr;
         }
 
+        /*
         // Brute Force
         while(ptr != NULL){
             ptr = ptr->next;
@@ -37,6 +38,28 @@ public:
         }
         ListNode *temp = ptr->next->next;
         ptr->next = temp;
+
+        return head;
+        */
+
+        // Optimised Approach
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        for(int i = 0; i < n + 1 ; i++){
+            if(fast == NULL){
+                return head->next;
+            } 
+
+            fast = fast->next;
+        }
+
+        while(fast != NULL){
+            slow = slow->next;
+            fast = fast->next;
+        }
+
+        slow->next = slow->next->next;
 
         return head;
     }
