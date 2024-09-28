@@ -11,6 +11,8 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
+        /*
+        // This is not interview Freindly
         ListNode* ptr = head;
         int size = 0;
 
@@ -29,6 +31,18 @@ public:
         }
         head = ptrTwo;
 
+        return head;
+        */
+
+        // This is interview Freindly
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while(fast != NULL && fast->next != NULL){
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        head = slow;
         return head;
     }
 };
