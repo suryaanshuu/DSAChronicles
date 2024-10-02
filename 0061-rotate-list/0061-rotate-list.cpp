@@ -10,6 +10,7 @@
  */
 class Solution {
 public:
+// THIS CAN BE DONE USING SLOW-FAST POINTER AS WELL
     ListNode* rotateRight(ListNode* head, int k) {
 
         if (head == NULL || head->next == NULL || k == 0) {
