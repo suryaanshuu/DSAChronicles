@@ -1,7 +1,6 @@
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
-        // ListNode* prev = NULL;
         ListNode* temp = head;
 
         while(temp != NULL && temp->next != NULL){
@@ -11,7 +10,6 @@ public:
                 }
             }
             else{
-                // prev = temp;
                 temp = temp->next;
             }
         }
