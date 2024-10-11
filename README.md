@@ -62,6 +62,7 @@
 | [0053-maximum-subarray](https://github.com/suryaanshuu/DSAChronicles/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suryaanshuu/DSAChronicles/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/suryaanshuu/DSAChronicles/tree/master/0338-counting-bits) |
+| [1013-fibonacci-number](https://github.com/suryaanshuu/DSAChronicles/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/suryaanshuu/DSAChronicles/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/suryaanshuu/DSAChronicles/tree/master/0048-rotate-image) |
+| [1013-fibonacci-number](https://github.com/suryaanshuu/DSAChronicles/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/suryaanshuu/DSAChronicles/tree/master/2032-largest-odd-number-in-string) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/suryaanshuu/DSAChronicles/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## String
@@ -151,4 +153,12 @@
 | [0141-linked-list-cycle](https://github.com/suryaanshuu/DSAChronicles/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suryaanshuu/DSAChronicles/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/suryaanshuu/DSAChronicles/tree/master/0908-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/suryaanshuu/DSAChronicles/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/suryaanshuu/DSAChronicles/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
