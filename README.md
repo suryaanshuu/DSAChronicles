@@ -96,6 +96,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/suryaanshuu/DSAChronicles/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/suryaanshuu/DSAChronicles/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/suryaanshuu/DSAChronicles/tree/master/0069-sqrtx) |
 | [1013-fibonacci-number](https://github.com/suryaanshuu/DSAChronicles/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/suryaanshuu/DSAChronicles/tree/master/2032-largest-odd-number-in-string) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/suryaanshuu/DSAChronicles/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suryaanshuu/DSAChronicles/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/suryaanshuu/DSAChronicles/tree/master/0069-sqrtx) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suryaanshuu/DSAChronicles/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
